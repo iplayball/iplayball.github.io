@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "stopdrlee.com",
+    "description": "",
+    "home_page_url": "https://stopdrlee.com",
+    "feed_url": "https://stopdrlee.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anonymous"
+    },
+    "items": [
+        {
+            "id": "https://stopdrlee.com/stop-doctor-lee-from-practicing-dental-work.html",
+            "url": "https://stopdrlee.com/stop-doctor-lee-from-practicing-dental-work.html",
+            "title": "Stop Doctor Lee from practicing dental work!!!",
+            "summary": "Dr. Lee has made continous mistakes and has cost me thousands of dollars of rework. I now have a new dentist but I'm paying the price of her mistakes. Dr. Lee also tried to bill my insurance on dates I was not at her office. ",
+            "content_html": "<p>Dr. Lee has made continous mistakes and has cost me thousands of dollars of rework. I now have a new dentist but I'm paying the price of her mistakes. Dr. Lee also tried to bill my insurance on dates I was not at her office. </p>",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-19T12:00:28-04:00",
+            "date_modified": "2026-07-19T12:00:28-04:00"
+        }
+    ]
+}

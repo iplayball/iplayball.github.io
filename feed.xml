@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>stopdrlee.com</title>
+    <link href="https://stopdrlee.com/feed.xml" rel="self" />
+    <link href="https://stopdrlee.com" />
+    <updated>2026-07-19T12:00:28-04:00</updated>
+    <author>
+        <name>Anonymous</name>
+    </author>
+    <id>https://stopdrlee.com</id>
+
+    <entry>
+        <title>Stop Doctor Lee from practicing dental work!!!</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://stopdrlee.com/stop-doctor-lee-from-practicing-dental-work.html"/>
+        <id>https://stopdrlee.com/stop-doctor-lee-from-practicing-dental-work.html</id>
+
+        <updated>2026-07-19T12:00:28-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Dr. Lee has made continous mistakes and has cost me thousands of dollars of rework. I now have a new dentist but I'm paying the price of her mistakes. Dr. Lee also tried to bill my insurance on dates I was not at her office. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dr. Lee has made continous mistakes and has cost me thousands of dollars of rework. I now have a new dentist but I'm paying the price of her mistakes. Dr. Lee also tried to bill my insurance on dates I was not at her office. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
